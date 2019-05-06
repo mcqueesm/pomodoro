@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/pomodoro/static/css/main.3f892419.chunk.css"
   },
   {
-    "revision": "a31263fa94cc43a400595760e49b88ba",
+    "revision": "7c86d737d5a408aa9d06754051446025",
     "url": "/pomodoro/index.html"
   }
 ];
